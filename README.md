@@ -1,70 +1,10 @@
-# Getting Started with Create React App
+## REACT_CHECKPOINT №5
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Task: https://docs.google.com/document/d/10qBS7YKimmZSbZplKPSpIWE6rYgCGsk7Ym1PNGJ2aE4/edit
 
-## Available Scripts
 
-In the project directory, you can run:
+## USEFUL LINKS
 
-### `npm start`
+gh-pages documentation: https://docs.google.com/document/d/1Uvm7-49vjpBOq1-wtQS38Cd6EmWdyzgAh2amUMHrka8/edit
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+gh-pages video: https://collegemirbis-my.sharepoint.com/personal/movsisyantv_ithub_ru/_layouts/15/stream.aspx?id=%2Fpersonal%2Fmovsisyantv%5Fithub%5Fru%2FDocuments%2F%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D0%B8%2F3%D0%A01%2E21%28%D0%A4%D1%80%D0%BE%D0%BD%D1%82%29%2C3%D0%A05%2E22%28V%2D%D0%A4%D1%80%D0%BE%D0%BD%D1%82%29%20%2D%20%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%20%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA%D0%B8%20JavaScript%2D20231116%5F175328%2D%D0%97%D0%B0%D0%BF%D0%B8%D1%81%D1%8C%20%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D0%BD%D0%B8%D1%8F%2Emp4&referrer=Teams%2ETEAMS%2DELECTRON&referrerScenario=RecapOpenInStreamButton%2Eview%2Eview&ga=1
